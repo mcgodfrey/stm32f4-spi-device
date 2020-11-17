@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+device firmware/Drivers/CMSIS/
+device firmware/Drivers/STM32F4xx_HAL_Driver/
+device firmware/build/
