@@ -2,7 +2,7 @@
 
 Example code for setting the SPI DMA peripheral in device mode on an STM32F4xx microcontroller running FreeRTOS.
 
-Detailed overview of the code here: https://dangerfromdeer.com/?p=1174
+Detailed overview of the code here: https://dangerfromdeer.com/2020/11/17/setting-up-an-stm32f4-as-an-spi-device-with-freertos-and-stm32mxcube/
 
 ## Overview
 
